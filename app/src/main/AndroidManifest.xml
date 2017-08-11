@@ -16,9 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".NowPlayingActivity" />
-        <activity android:name=".LibraryActivity" />
-        <activity android:name=".DonateActivity"></activity>
+        <activity
+            android:name=".NowPlayingActivity"
+            android:label="@string/now_playing" />
+
+        <activity
+            android:name=".LibraryActivity"
+            android:label="@string/library" />
+
+        <activity
+            android:name=".DonateActivity"
+            android:label="@string/donate">
+        </activity>
     </application>
 
 </manifest>

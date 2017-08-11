@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         //Setting up the now library text view to handle click events
 
         TextView donate = (TextView) findViewById(R.id.donate);
-        library.setOnClickListener(new View.OnClickListener() {
+        donate.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
