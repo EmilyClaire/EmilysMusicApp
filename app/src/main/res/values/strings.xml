@@ -3,7 +3,11 @@
     <string name="now_playing">Now Playing</string>
     <string name="library">Library</string>
     <string name="donate">Donate</string>
+    <string name="now_playing_description">The NowPlayingActivity will show the cover art,
+        song name, song progress, play button, stop button, and pause button.</string>
     <string name="library_description">The LibraryActivity will show a list of all the songs
         available to the music player. When you click on a song, it will start playing the
         song.</string>
+    <string name="donate_description">The DonateActivity would use the Braintree API to allow
+        users to donate directly to the developer</string>
 </resources>
