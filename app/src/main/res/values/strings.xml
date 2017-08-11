@@ -3,4 +3,7 @@
     <string name="now_playing">Now Playing</string>
     <string name="library">Library</string>
     <string name="donate">Donate</string>
+    <string name="library_description">The LibraryActivity will show a list of all the songs
+        available to the music player. When you click on a song, it will start playing the
+        song.</string>
 </resources>

@@ -6,4 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.goktalk.emilysmusicapp.LibraryActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/library_description"
+        android:padding="16dp"/>
+
 </android.support.constraint.ConstraintLayout>
